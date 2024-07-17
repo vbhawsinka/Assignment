@@ -252,9 +252,6 @@ a {
   .flex-container{
     height: 1000px;
   }
-  .flex-container-1{
-    height: 1000px;
-  }
 
   .flex-item-right {
     height: 500px !important;
